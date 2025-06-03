@@ -27,3 +27,20 @@ input {
   padding: 10px;
   background-color: #0000;
 }
+
+button {
+  margin: auto;
+  display: block;
+  font-size: 1.2em;
+  padding: 10px 20px;
+}
+
+.result {
+  margin-bottom: 100px;
+}
+
+.result td {
+  min-width: 200px;
+  height: 2em;
+  padding: 5px;
+}
