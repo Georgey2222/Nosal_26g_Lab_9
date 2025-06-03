@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nosal_26g_Lab_9/static/css/main.00c19d4b.css",
-    "main.js": "/Nosal_26g_Lab_9/static/js/main.dcc02cde.js",
+    "main.css": "/Nosal_26g_Lab_9/static/css/main.8526d7e9.css",
+    "main.js": "/Nosal_26g_Lab_9/static/js/main.82f65059.js",
     "static/js/453.782eb303.chunk.js": "/Nosal_26g_Lab_9/static/js/453.782eb303.chunk.js",
     "index.html": "/Nosal_26g_Lab_9/index.html",
-    "main.00c19d4b.css.map": "/Nosal_26g_Lab_9/static/css/main.00c19d4b.css.map",
-    "main.dcc02cde.js.map": "/Nosal_26g_Lab_9/static/js/main.dcc02cde.js.map",
+    "main.8526d7e9.css.map": "/Nosal_26g_Lab_9/static/css/main.8526d7e9.css.map",
+    "main.82f65059.js.map": "/Nosal_26g_Lab_9/static/js/main.82f65059.js.map",
     "453.782eb303.chunk.js.map": "/Nosal_26g_Lab_9/static/js/453.782eb303.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00c19d4b.css",
-    "static/js/main.dcc02cde.js"
+    "static/css/main.8526d7e9.css",
+    "static/js/main.82f65059.js"
   ]
 }
